@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jay-cey
 - 👀 I’m interested in building Javascript projects
-- 🌱 BnB React Js
+- 🌱 React Js
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me : Jeremiahogunleye604@gmail.com
 
