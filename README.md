@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah Ogunleye</h1>
 <h3 align="center">Machine Learning | Frontend Development</h3>
 
-<p align="left"> <a href="https://twitter.com/jar_ray_mey" target="blank"><img src="https://img.shields.io/twitter/follow/jar_ray_mey?logo=twitter&style=for-the-badge" alt="jar_ray_mey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jay_ray_mey" target="blank"><img src="https://img.shields.io/twitter/follow/jar_ray_mey?logo=twitter&style=for-the-badge" alt="jar_ray_mey" /></a> </p>
 
 - 🔭 I'm currently working on [SentinelML](https://github.com/Jay-cey/sentinelML)
 
