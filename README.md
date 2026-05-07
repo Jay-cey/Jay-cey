@@ -25,32 +25,32 @@ Currently diving deep into **TensorFlow**, **Keras**, and **PyTorch** to advance
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🤖 SentinelML</h3>
+      <h3>SentinelML</h3>
       <p>Advanced Machine Learning framework for anomaly detection and predictive analytics</p>
       <a href="https://github.com/Jay-cey/sentinelML">
         <img src="https://img.shields.io/badge/View Project-FF6B6B?style=for-the-badge&logo=github" alt="SentinelML"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>😴 Sleep Disorder Risk Predictor</h3>
+      <h3>Sleep Disorder Risk Predictor</h3>
       <p>ML-powered diagnostic tool predicting sleep disorder risks with high accuracy</p>
-      <a href="https://github.com/Jay-cey">
+      <a href="[https://github.com/Jay-cey](https://github.com/Jay-cey/Sleep_Disorder_Risk_Predictor)">
         <img src="https://img.shields.io/badge/View Project-4ECDC4?style=for-the-badge&logo=github" alt="Sleep Disorder"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🔐 Gatekeeper</h3>
-      <p>Robust authentication and access control system with advanced security protocols</p>
-      <a href="https://github.com/Jay-cey">
+      <h3Gatekeeper</h3>
+      <p>QR-based event access platform that prevents uninvited entry by issuing scannable digital passes for any event</p>
+      <a href="[https://github.com/Jay-cey](https://github.com/Dcomtech1/gatekeeper)">
         <img src="https://img.shields.io/badge/View Project-FF1493?style=for-the-badge&logo=github" alt="Gatekeeper"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>👗 GlamourFash</h3>
+      <h3>GlamourFash</h3>
       <p>Fashion e-commerce platform with elegant UI and seamless shopping experience</p>
-      <a href="https://github.com/Jay-cey">
+      <a href="https://github.com/Jay-cey/glamourfash">
         <img src="https://img.shields.io/badge/View Project-FFD700?style=for-the-badge&logo=github" alt="GlamourFash"/>
       </a>
     </td>
@@ -102,7 +102,7 @@ Currently diving deep into **TensorFlow**, **Keras**, and **PyTorch** to advance
 I'm always open to collaborating on interesting projects, discussing ML innovations, or just chatting about technology!
 
 - 📧 **Email:** [jeremiahogunleye604@gmail.com](mailto:jeremiahogunleye604@gmail.com)
-- 🐦 **Twitter:** [@jar_ray_mey](https://twitter.com/jar_ray_mey)
+- 🐦 **Twitter:** [@jay_ray_mey](https://twitter.com/jay_ray_mey)
 - 💼 **LinkedIn:** [Jeremiah Ogunleye](https://linkedin.com/in/jeremiahogunleye)
 - 📸 **Instagram:** [@jay_ac_ey](https://instagram.com/jay_ac_ey)
 - 💼 **Portfolio:** [portfolio-cxerdev.vercel.app](https://portfolio-cxerdev.vercel.app/)
