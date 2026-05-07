@@ -4,7 +4,7 @@
 
 ### ML Engineer | Frontend Developer | Data Science Enthusiast
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jar_ray_mey?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/jar_ray_mey)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jay_ray_mey?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/jay_ray_mey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremiahogunleye)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cxerdev.vercel.app/)
 
@@ -41,7 +41,7 @@ Currently diving deep into **TensorFlow**, **Keras**, and **PyTorch** to advance
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3Gatekeeper</h3>
+      <h3>Gatekeeper</h3>
       <p>QR-based event access platform that prevents uninvited entry by issuing scannable digital passes for any event</p>
       <a href="[https://github.com/Jay-cey](https://github.com/Dcomtech1/gatekeeper)">
         <img src="https://img.shields.io/badge/View Project-FF1493?style=for-the-badge&logo=github" alt="Gatekeeper"/>
