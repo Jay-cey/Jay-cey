@@ -34,8 +34,8 @@ Currently diving deep into **TensorFlow**, **Keras**, and **PyTorch** to advance
     <td align="center" width="50%">
       <h3>Sleep Disorder Risk Predictor</h3>
       <p>ML-powered diagnostic tool predicting sleep disorder risks with high accuracy</p>
-      <a href="[https://github.com/Jay-cey](https://github.com/Jay-cey/Sleep_Disorder_Risk_Predictor)">
-        <img src="https://img.shields.io/badge/View Project-4ECDC4?style=for-the-badge&logo=github" alt="Sleep Disorder"/>
+      <a href="https://github.com/Jay-cey/Sleep_Disorder_Risk_Predictor">
+        <img src="https://img.shields.io/badge/View Project-4ECDC4?style=for-the-badge&logo=github" alt="Sleep Disorder Risk Detector"/>
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@ Currently diving deep into **TensorFlow**, **Keras**, and **PyTorch** to advance
     <td align="center" width="50%">
       <h3>Gatekeeper</h3>
       <p>QR-based event access platform that prevents uninvited entry by issuing scannable digital passes for any event</p>
-      <a href="[https://github.com/Jay-cey](https://github.com/Dcomtech1/gatekeeper)">
+      <a href="https://github.com/Dcomtech1/gatekeeper">
         <img src="https://img.shields.io/badge/View Project-FF1493?style=for-the-badge&logo=github" alt="Gatekeeper"/>
       </a>
     </td>
